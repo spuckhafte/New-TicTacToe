@@ -3,4 +3,4 @@
 2. Three diffuculty levels
 3. Anyone can start the game
 
-*Advanced version of repo:"Auto-TicTacToe"*
+*Advanced version of "Auto-TicTacToe" (available in repo: Python-Projects)*
