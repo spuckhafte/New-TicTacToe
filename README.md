@@ -1,1 +1,4 @@
-# Updated version of Auto-TicTacToe with the freedom of choosing who starts first.
+# TICTACTOE
+Human Vs. Computer.
+3 levels.
+Anyone can start first.
